@@ -1,0 +1,24 @@
+Metadata-Version: 2.1
+Name: ion-Numworks
+Version: 1.2.3
+Summary: Permet de faire la liason entre les modules ion (de la Numworks) et keyboard.
+Home-page: https://github.com/ZetaMap/Ion-numworks
+Author: ZetaMap
+License: MIT
+Project-URL: Bug Tracker, https://github.com/ZetaMap/Ion-numworks/issues
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Description-Content-Type: text/markdown
+Requires-Dist: keyboard
+
+# Ion-numworks
+Un petit module python vous permettant de faire la liason entre les modules ion (de la Numworks) et keyboard. (modules permettant les détections d'appuis de touches)
+
+### Plus
+[Kandinsky module of Numworks](https://github.com/ZetaMap/Kandinsky-Numworks)
+
